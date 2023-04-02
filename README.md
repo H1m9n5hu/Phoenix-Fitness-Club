@@ -1,4 +1,4 @@
-# React Fitness Application
+# Phoenix Fitness Club
 
 ![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
 
