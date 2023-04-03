@@ -1,5 +1,5 @@
 # Phoenix Fitness Club
 
-(https://drive.google.com/file/d/1QACDeDFYHw_8fapo-XRE8QHRZzp4mbsD/view?usp=sharing)
+![Main page of project](https://github.com/[h1m9n5hu]/[Phoenix-Fitness-Club]/blob/[branch]/Phoenix.png?raw=true)
 
 ## https://phoenix-fitness-club.netlify.app - Click here to see this project!
