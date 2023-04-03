@@ -1,5 +1,5 @@
 # Phoenix Fitness Club
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+(https://drive.google.com/file/d/1QACDeDFYHw_8fapo-XRE8QHRZzp4mbsD/view?usp=sharing)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## https://phoenix-fitness-club.netlify.app - Click here to see this project!
