@@ -1,5 +1,5 @@
 # Phoenix Fitness Club
 
-<img width="960" alt="Phoenix" src="https://github.com/H1m9n5hu/Phoenix-Fitness-Club/assets/57283974/a91654a8-848c-442c-96a8-c4785ae74050">
+<img width="960" alt="Phoenix" src="https://user-images.githubusercontent.com/57283974/229387183-469dcba8-e6aa-4565-901b-631f8f80cdbf.png">
 
 ## https://phoenix-fitness-club.netlify.app - Click here to see this project!
